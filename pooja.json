@@ -1,0 +1,42 @@
+[
+    {
+        "username": "pooja",
+        "password": "pooja@123",
+        "description": "22",
+        "dob": "22",
+        "hobbies": "song",
+        "gender": "female"
+    },
+    {
+        "username": "riti",
+        "password": "Riti@123",
+        "description": "wer",
+        "dob": "ret",
+        "hobbies": "er",
+        "gender": "4ert"
+    },
+    {
+        "username": "mamta",
+        "password": "Mamta@123",
+        "description": "i am from rajsthan",
+        "dob": "33 45 7463",
+        "hobbies": "reading book",
+        "gender": "male"
+    },
+    {
+        "username": "neha",
+        "password": "Mamta@123",
+        "description": "jdhfiueo",
+        "dob": "17267 378 378",
+        "hobbies": "jkfyiek",
+        "gender": "male"
+    },
+    {
+        "username": "Shubhangi",
+        "password": "Shubhangi@7171",
+        "description": "sd",
+        "dob": "d",
+        "hobbies": "d",
+        "gender": "f"
+    }
+]

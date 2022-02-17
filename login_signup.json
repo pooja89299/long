@@ -1,0 +1,14 @@
+{
+    "Mamta@123": {
+        "username": "mamta",
+        "mobileno": "2345623456",
+        "password": "Mamta@123",
+        "persondetails": {
+            "first_name": "mamta",
+            "last_name": "rajput",
+            "Date_Of_Birth": "34 56 9201",
+            "Gender": "fimal",
+            "mobile_number": "2345623456"
+        }
+    }
+}
